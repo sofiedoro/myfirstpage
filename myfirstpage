@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Homepage</title>
+<meta name="description" content="Greener living">
+<link rel="stylesheet" href="./css/reset.css">
+<link rel="stylesheet" href="./CSS/home.css">
+</head>
+<body>
+  <header class="header">
+    <img src="assets/logohandwhitegreen.JPG".assets" width="200">
+    <nav>
+      <ul>
+         <li><a href="HOME.html">Home  </a></li>
+        <!-----<li><a href="IN THE KITCHEN.html">In the kitchen  </a></li> --->
+         <li><a href="IN THE KITCHEN.html">Seasonal  </a></li>
+      </nav>
+      </ul>
+    </header>
+
+    <div class="my-box">
+      <img src="./assets/np_Anonymous chef putting fresh vegetables in a crate on an agricultural field_0vVng0_free (1).jpg" width="100%">
+    </div>
+    <div class="inside-box">
+    <button>Following the seasons...</button>
+    </div>
+    </div>
+    
+    <footer>
+        @Copyright beetsandstuff2022- All Right Reserved. 
+    </footer>
+    </body>
